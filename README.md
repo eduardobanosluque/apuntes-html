@@ -10,11 +10,10 @@ HTML usa etiquetas (tags), que son palabras clave entre corchetes angulares (< >
 `<p>`Este es un párrafo`</p>`
 
 ## Elementos y etiquetas más comunes
-- Encabezados: `<h1>` a `<h6>` para títulos y subtítulos.
-- Párrafos: `<p>` para texto.
-- Enlaces: `<a href="url">`texto`</a>`.
-- Imágenes: `<img src="ruta" alt="texto alternativo">`.
-- Listas: ordenadas `<ol>`, no ordenadas `<ul>`, y elementos `<li>`.
-- Tablas: `<table>`, filas `<tr>`, celdas `<td>` y encabezados `<th>`.
-- Formularios: para recoger datos del usuario.
-
+- **Encabezados**: `<h1>` a `<h6>` *para títulos y subtítulos*.
+- **Párrafos**: `<p>` para texto.
+- **Enlaces**: `<a href="url">`texto`</a>`.
+- **Imágenes**: `<img src="ruta" alt="texto alternativo">`.
+- **Listas: ordenadas** `<ol>`, **no ordenadas** `<ul>`, y **elementos** `<li>`.
+- **Tablas**: `<table>`, **filas** `<tr>`, **celdas** `<td>` y **encabezados** `<th>`.
+- **Formularios**: ~~para recoger datos del usuario~~
