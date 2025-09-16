@@ -17,3 +17,18 @@ HTML usa etiquetas (tags), que son palabras clave entre corchetes angulares (< >
 - **Listas: ordenadas** `<ol>`, **no ordenadas** `<ul>`, y **elementos** `<li>`.
 - **Tablas**: `<table>`, **filas** `<tr>`, **celdas** `<td>` y **encabezados** `<th>`.
 - **Formularios**: ~~para recoger datos del usuario~~
+
+**Ejemplo de página HTML**
+
+```html
+<html>
+<head>
+
+</head>
+
+<body>
+  HOLA MUNDO.  
+</body>
+
+</html>
+```
