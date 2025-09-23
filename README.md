@@ -1,5 +1,5 @@
 ![imagen carpeta](images/pruba2.png)
-![imagen html](prueba.png)
+
 
 # ¿Qué es HTML?
 HTML (HyperText Markup Language) es un lenguaje de marcado usado para estructurar y presentar contenido en la web. No es un lenguaje de programación, sino que utiliza "etiquetas" para definir elementos dentro de una página.
