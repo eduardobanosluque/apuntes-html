@@ -1,10 +1,8 @@
-[enlace wikipedia html](https://es.wikipedia.org/wiki/HTML)
-
 ![imagen con enlace internet](https://geoinnova.org/wp-content/uploads/2021/08/logos.png)
 
 ![imagen carpeta](images/pruba2.png)
 
-
+[enlace wikipedia html](https://es.wikipedia.org/wiki/HTML)
 # ¿Qué es HTML?
 HTML (HyperText Markup Language) es un lenguaje de marcado usado para estructurar y presentar contenido en la web. No es un lenguaje de programación, sino que utiliza "etiquetas" para definir elementos dentro de una página.
 
