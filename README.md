@@ -1,3 +1,4 @@
+![imagen carpeta](images/pruba2.png)
 ![imagen html](prueba.png)
 
 # ¿Qué es HTML?
